@@ -1,0 +1,18 @@
+.prediction-area {
+    display: flex;
+    margin: 2px;
+    height: 580px;
+    flex: 1;
+    align-items: center;
+    justify-content: center;
+}
+
+.prediction-area p {
+    font-size: 40px;
+    margin: 10px;
+    color: #1C1E22;
+}
+
+.prediction-area span {
+    font-weight: bold;
+}
